@@ -1,0 +1,53 @@
+Nombre Inicio
+Inicio -> procedure
+Declaracion -> int
+Declaracion -> int
+Declaracion -> int
+Declaracion -> string
+Declaracion -> float
+Declaracion -> boolean
+Declaracion -> int
+Declaracion -> int
+Comienzo -> begin
+Nombre funcion
+Declaracion -> int
+Declaracion -> int
+Put_Line
+FUNCION
+Nombre funcion
+Declaracion -> int
+Declaracion -> int
+Put_Line
+FUNCION
+Nombre funcion
+Declaracion -> int
+Declaracion -> int
+Put_Line
+FUNCION
+Nombre funcion
+Declaracion -> int
+Declaracion -> int
+Put_Line
+FUNCION
+Put_Line
+  factor --> variable(Numero)
+  factor--> NUMENTERO(10)
+Condicion
+Comentario
+Bucle WHILE
+  factor --> variable(Numero)
+  factor--> NUMENTERO(1)
+  factor--> NUMENTERO(10)
+Variable
+Comentario
+Bucle FOR
+  factor --> variable(Suma)
+  factor--> NUMENTERO(10)
+Condicion
+Put_Line
+Comentario
+Sentencia IF
+Put_Line
+Nombre Final
+Final -> end
+TODO OK
